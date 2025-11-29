@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as t,a,b as c,t as r}from"./index-CLxOXX9K.js";const n={},_={class:"size-full"},d={key:0};function i(e,f){return t(),s("div",_,[e.$has("12")?(t(),s("div",d,"abcdefg")):a("",!0),c(" "+r(e.$has("12")),1)])}const m=o(n,[["render",i]]);export{m as default};

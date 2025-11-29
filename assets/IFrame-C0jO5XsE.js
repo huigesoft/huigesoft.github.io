@@ -1,0 +1,1 @@
+import{l as t,q as a,c as o,o as s}from"./index-CLxOXX9K.js";const c=["src"],_={__name:"IFrame",setup(n){const e=t(),r=a(e.meta.url);return(u,l)=>(s(),o("iframe",{ref:"iframeRef",src:r.value,width:"100%",height:"99%",frameborder:"0"},null,8,c))}};export{_ as default};
